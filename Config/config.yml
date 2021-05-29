@@ -1,0 +1,11 @@
+dev:
+  db_name: dev_discovery_service
+stage:
+  db_name: stage_discovery_service
+prod:
+  db_name: prod_discovery_service
+
+DatabaseNames:
+  dev_db_name: dev_discovery_service
+  stage_db_name: stage_discovery_service
+  prod_db_name: prod_discovery_service
