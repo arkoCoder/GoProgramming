@@ -1,6 +1,6 @@
 package main
 
-import "main/go/Channels/Channels"
+import "GoProgramming/Channels/Channels"
 
 func main() {
 	Channels.GetChannelsResults()

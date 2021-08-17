@@ -1,6 +1,6 @@
 package main
 
-import "main/go/GoRoutines/GoRoutines"
+import "GoProgramming/GoRoutines/GoRoutines"
 
 func main() {
 	GoRoutines.GetGouroutineResults()

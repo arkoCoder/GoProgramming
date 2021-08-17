@@ -1,6 +1,6 @@
 package main
 
-import "main/go/Functions/Functions"
+import "GoProgramming/Functions/Functions"
 
 func main() {
 	Functions.GetFuncResults()

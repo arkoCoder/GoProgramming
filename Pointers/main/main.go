@@ -1,8 +1,8 @@
 package main
 
 import (
+	"GoProgramming/Pointers/Pointers"
 	"fmt"
-	"main/go/Pointers/Pointers"
 )
 
 type TestPointer struct {

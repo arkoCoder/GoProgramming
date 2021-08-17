@@ -1,8 +1,8 @@
 package main
 
 import (
-	"main/go/Collections/ArraysAndSlices"
-	"main/go/Collections/MapsAndStruct"
+	"GoProgramming/Collections/ArraysAndSlices"
+	"GoProgramming/Collections/MapsAndStruct"
 )
 
 func main() {

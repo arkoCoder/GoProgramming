@@ -1,8 +1,8 @@
 package ArraysAndSlices
 
 import (
+	"GoProgramming/Collections/MapsAndStruct"
 	"fmt"
-	"main/go/Collections/MapsAndStruct"
 )
 
 func GetArraysAndSlices() {

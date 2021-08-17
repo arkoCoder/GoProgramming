@@ -10,7 +10,7 @@ func GetLoopsResult() {
 		fmt.Println(i)
 	}
 
-	fmt.Println("Simple for loop execution with initial variable scopr to method level")
+	fmt.Println("Simple for loop execution with initial variable scope to method level")
 	test := 0
 	for ; test < 5; test++ {
 		fmt.Println(test)

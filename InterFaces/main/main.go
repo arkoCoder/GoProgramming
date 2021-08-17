@@ -1,7 +1,7 @@
 package main
 
 import (
-	"main/go/InterFaces/Interfaces"
+	"GoProgramming/InterFaces/Interfaces"
 )
 
 func main() {
